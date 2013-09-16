@@ -1,5 +1,5 @@
 workflow-test
 =============
-1
+2
 v0.0.2
 temporary workflow test
